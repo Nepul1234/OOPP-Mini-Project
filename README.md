@@ -101,6 +101,11 @@ https://github.com/Nepul1234/OOPP-Mini-Project.git
 ### Lecturer Dashboard
 
 ![Image](https://github.com/user-attachments/assets/ba33f8bd-3d40-4a10-a370-29f4590eb78d)
+
+### Admin Dashboard
+
+![Image](https://github.com/user-attachments/assets/e43a22f4-da52-4160-876c-d2c5f7631bdb)
+
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
