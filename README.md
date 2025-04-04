@@ -45,7 +45,7 @@ The TECMIS system has the following roles and functionalities:
 Clone the project repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/tecmis-student-management.git
+https://github.com/Nepul1234/OOPP-Mini-Project.git
 ```
 
 ### Step 2: Open the Project in NetBeans
@@ -60,20 +60,8 @@ git clone https://github.com/yourusername/tecmis-student-management.git
 
 ### Step 4: Run the Project
 
-1. Right-click on the project folder in **NetBeans**.
+1. Right-click on the project folder in **NetBeans** (Login_page.java).
 2. Select **Run** to start the application.
-
-### Step 5: Application Access
-
-Once the system is running, you can log in using the following credentials:
-
-- **Admin Login**:
-  - Username: admin
-  - Password: admin123
-
-- **Student Login**:
-  - Username: student1
-  - Password: student123
 
 ## Project Structure
 
@@ -106,6 +94,13 @@ Once the system is running, you can log in using the following credentials:
 
 ![Image](https://github.com/user-attachments/assets/1f1e9ac5-633c-4f08-be58-f10523b4fcf7)
 
+### Student Dashboard
+
+![Image](https://github.com/user-attachments/assets/1549a648-4cbf-4ded-81df-7f89e67ea2c7)
+
+### Lecturer Dashboard
+
+![Image](https://github.com/user-attachments/assets/ba33f8bd-3d40-4a10-a370-29f4590eb78d)
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
