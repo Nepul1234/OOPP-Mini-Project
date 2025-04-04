@@ -57,6 +57,7 @@ https://github.com/Nepul1234/OOPP-Mini-Project.git
 ### Step 3: Set Up the Database
 
 1. Create a MySQL database named `tecmis` (or use the configured database name).
+2. Import tecmisDB.sql file.
 
 ### Step 4: Run the Project
 
