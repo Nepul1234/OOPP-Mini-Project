@@ -111,3 +111,6 @@ https://github.com/Nepul1234/OOPP-Mini-Project.git
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
+## Give Me a Star ⭐
+
+If you find this project useful, please consider giving it a ⭐ (star) on GitHub to show your support. 
